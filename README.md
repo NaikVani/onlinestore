@@ -18,7 +18,7 @@ To run from command line
 	open the project in command line tool and type "mvn package"
 	the jar will be generated in onlinestore/target/onlinestore-0.0.1-SNAPSHOT	
 
-The Postman API is attached in the classpath of this project to import and test.
+The Postman Collection of API's(Online Store.postman_collection.json) is attached in the classpath of this project to import and test.
 
 The products and 2 user details are loaded as part of application startup.
 Below are the login details for loaded users :
