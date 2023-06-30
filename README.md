@@ -6,6 +6,8 @@ To run the jar file from this repository
 	open the command line tool from the location of the jar
 	type "java -jar onlinestore-0.0.1-SNAPSHOT" 
 
+The server will be started at http://localhost:8080
+
 To run the project through IDE 
 	import this project into IDE of your choice 
 	right click and build (mvn package)
